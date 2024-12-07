@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "angrystory",
+	"position": [
+		490,
+		14
+	],
+	"flipX": false,
+	"scale": 1,
+	"confirm_anim": "select"
+}
